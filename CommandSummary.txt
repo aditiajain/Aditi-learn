@@ -1,0 +1,5 @@
+git status <-- shows the status of files being edited (red color means that the file is not added for tracking)
+git add filename <-- adds file to the tracking
+git status <-- shows the status of files being edited (green color means that the file is added for tracking)
+git commit filename <-- adds files to the staging repository
+git push <-- adds file to the remote repository
